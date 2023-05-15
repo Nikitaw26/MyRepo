@@ -2,7 +2,7 @@
 A simple pizza ordering chatbot
 
 Steps to use the bot<br/>
-1. Select your type of pizza. (veg or non-veg)
+1. Select your type of pizza. (veg or non-veg) anything
 2. Choose a pizza from the given options
 3. Enter size of the pizza
 4. Add toppings if you need any
@@ -15,3 +15,4 @@ Steps to use the bot<br/>
 
 ## Architecture of the project
 ![Architecture of the project](images/Pizza_ordering_bot.png)
+
